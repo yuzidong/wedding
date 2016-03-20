@@ -1,1 +1,12 @@
-![Alt text](/wedding/images/a.jpg)
+1.喜服外景镇江阁  
+![a](images/a.jpg)  
+2.室内婚纱  
+![b](images/b.jpg)  
+3.室外婚纱   
+![d](images/d.jpg)  
+4.室内摆酷艺术照   
+![e](images/e.jpg)  
+5.东山家私城   
+![f](images/f.jpg)  
+6.室内婚纱    
+![g](images/g.jpg)  

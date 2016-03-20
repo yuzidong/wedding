@@ -11,4 +11,3 @@
 6.室内婚纱  
 ![g](images/g.jpg)     
 6.室内婚纱  
-![h](images/h.jpg)  

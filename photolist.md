@@ -1,1 +1,1 @@
-
+![Alt text](/wedding/images/a.jpg)
